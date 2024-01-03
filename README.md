@@ -1,9 +1,17 @@
 ### Hi there 👋
 
+![banner git1 1](https://github.com/andreaccaicedo/andreaccaicedo/assets/145616401/d78c304b-7374-4579-b458-a6e24af8a46e)
+
+Hey, everyone. I'm a Systems Engineering student at Mariana University (a Social Communicator and avid self-learner on the side). 
+At the moment I'm most interested in honing my skills as a programmer. Still got a long way to go, but you always learn something new!
+I've meddled with some programming languages and tools like PHP and Laravel, Python, Java, Javascript and Angular. Wordpress is always a nice backup plan to have. I'm also interested in the world of Data Science and Analytics, so SQL and a solid Excel foundation, with complements like Power Query and Power BI have been a nice addition. I'd like to learn more about the usage of the aferementioned Python for Machine Learning and Data Processing. 
+
+
 <!--
 **andreaccaicedo/andreaccaicedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![banner git1 1](https://github.com/andreaccaicedo/andreaccaicedo/assets/145616401/68ced068-a850-4e1a-943e-9b9fbfbb1c30)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
