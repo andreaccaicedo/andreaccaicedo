@@ -2,7 +2,7 @@
 
 ![banner git1 1](https://github.com/andreaccaicedo/andreaccaicedo/assets/145616401/d78c304b-7374-4579-b458-a6e24af8a46e)
 
-Hey, everyone. I'm a Systems Engineering student at Mariana University (a Social Communicator and avid self-learner on the side). As to why, I'm keen on maintaining a balanced overview, between the Humanities and Sciences, as well as other sources of knowledge; a right amount of flexibility and structure could lead to significant insights about our world and some ways to face its problems 🌱✨. \
+Hey, everyone. I'm a Systems Engineering student (a Social Communicator and avid self-learner too!). As to why, I'm keen on maintaining a balanced overview, between the Humanities and Sciences, as well as other sources of knowledge; a right amount of flexibility and structure could lead to significant insights about our world and some ways to face its problems 🌱✨. \
 \
 At the moment I'm most interested in honing my skills as a programmer💻. Still got a long way to go, but you always learn something new!\
 \
